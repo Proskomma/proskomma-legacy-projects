@@ -1,0 +1,7 @@
+{
+  "sourceDir": "../../test_data/noNLB05/local/USX",
+  "outputDir": "../norwegianPoly",
+  "i18n": {
+    "chapterTemplate": "Kapittel %%"
+  }
+}

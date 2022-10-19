@@ -1,0 +1,475 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CommentList>
+  <Comment Thread="f884d4bd" User="James Courter" VerseRef="JHN 8:47" Language="nb" Date="2016-01-07T13:18:39.5794821+02:00">
+    <SelectedText>å</SelectedText>
+    <StartPosition>79</StartPosition>
+    <ContextBefore> Når dere nå nekter å </ContextBefore>
+    <ContextAfter> ta imot budskapet mitt, da</ContextAfter>
+    <Status>todo</Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse>\v 47 Den som har Gud til sin far, tar imot Guds budskap. Når dere nå nekter å å ta imot budskapet mitt, da beviser det at dere ikke har Gud til far.” \s1 Jesus og Abraham \p </Verse>
+    <AssignedUser>Kent Spielmann</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>Delete the second  å</Contents>
+  </Comment>
+  <Comment Thread="443c5206" User="James Courter" VerseRef="ACT 9:27" Language="nb" Date="2016-01-07T13:23:19.9703095+02:00">
+    <SelectedText>Barnabas tok ham med til utsendingene og fortalte for dem hvordan Saulus på veien hadde sett Herren Jesus Jesus hadde snakket til ham, og etterpå hadde Saulus med stort mot undervist om Jesus i Damaskus.</SelectedText>
+    <StartPosition>6</StartPosition>
+    <ContextBefore>\v 27 </ContextBefore>
+    <ContextAfter />
+    <Status></Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse />
+    <AssignedUser>Kent Spielmann</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>Use the typeset version.</Contents>
+  </Comment>
+  <Comment Thread="a36618a9" User="James Courter" VerseRef="ACT 14:19" Language="nb" Date="2016-01-07T13:23:46.4351310+02:00">
+    <SelectedText>de</SelectedText>
+    <StartPosition>141</StartPosition>
+    <ContextBefore> steinet Paulus, slik at de </ContextBefore>
+    <ContextAfter> trodde han var død.</ContextAfter>
+    <Status>todo</Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse>\v 19 Litt seinere kom noen jøder fra Antiokia og Ikonium og klarte å vende folket mot Paulus og Barnabas. Folket steinet Paulus, slik at de de trodde han var død. De slepte ham ut av byen. </Verse>
+    <AssignedUser>Kent Spielmann</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>Delete the second de</Contents>
+  </Comment>
+  <Comment Thread="8d5402a" User="James Courter" VerseRef="REV 7:13" Language="nb" Date="2016-01-07T13:24:08.4868126+02:00">
+    <SelectedText>en</SelectedText>
+    <StartPosition>9</StartPosition>
+    <ContextBefore>\v 13 En </ContextBefore>
+    <ContextAfter> av de 24 lederne i</ContextAfter>
+    <Status>todo</Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse>\v 13 En en av de 24 lederne i himmelen spurte meg: ”Vet du hvem disse er som er kledd i hvite klær, og hvor de kommer fra?” \p </Verse>
+    <AssignedUser>Kent Spielmann</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>Delete the second en</Contents>
+  </Comment>
+  <Comment Thread="4a2c3878" User="James Courter" VerseRef="MAT 1:23" Language="nb" Date="2016-01-07T13:26:02.0001738+02:00">
+    <SelectedText>’Lytt! Den unge jenta skal bli med barn og føde en sønn, og de skal kalle ham Immanuel,</SelectedText>
+    <StartPosition>10</StartPosition>
+    <ContextBefore>\v 23 \qt </ContextBefore>
+    <ContextAfter>\qt* som betyr ”Gud er med</ContextAfter>
+    <Status></Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse />
+    <AssignedUser>Kent Spielmann</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>Yes they are</Contents>
+  </Comment>
+  <Comment Thread="1856cae6" User="James Courter" VerseRef="MAT 27:46" Language="nb" Date="2016-01-07T13:29:20.3931799+02:00">
+    <SelectedText>meg?”.</SelectedText>
+    <StartPosition>147</StartPosition>
+    <ContextBefore> Gud, hvorfor har du forlatt </ContextBefore>
+    <ContextAfter>\f + \fr 27:46 \ft Jesus</ContextAfter>
+    <Status></Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse />
+    <AssignedUser>Kent Spielmann</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>I would delete all such periods after final punctuation based on other Norwegian texts I looked at.</Contents>
+  </Comment>
+  <Comment Thread="f5bf8467" User="James Courter" VerseRef="LUK 11:8" Language="nb" Date="2016-01-07T13:31:15.4688155+02:00">
+    <SelectedText> ”din</SelectedText>
+    <StartPosition>292</StartPosition>
+    <ContextBefore> unngå skam” eller ”på grunn av,</ContextBefore>
+    <ContextAfter> langvarige utholdenhet”.</ContextAfter>
+    <Status></Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse />
+    <AssignedUser>Kent Spielmann</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>Should be deleted</Contents>
+  </Comment>
+  <Comment Thread="e0874c44" User="James Courter" VerseRef="LUK 13:35" Language="nb" Date="2016-01-07T13:31:38.8232230+02:00">
+    <SelectedText>navn.</SelectedText>
+    <StartPosition>214</StartPosition>
+    <ContextBefore> han som kommer i Herrens </ContextBefore>
+    <ContextAfter> Se Salmenes bok 118:26.</ContextAfter>
+    <Status></Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse />
+    <AssignedUser>Kent Spielmann</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>It is missing here.</Contents>
+  </Comment>
+  <Comment Thread="7afa6eff" User="James Courter" VerseRef="JHN 19:36" Language="nb" Date="2016-01-07T13:32:06.8589171+02:00">
+    <SelectedText>knust.”</SelectedText>
+    <StartPosition>139</StartPosition>
+    <ContextBefore> i kroppen hans skal bli </ContextBefore>
+    <ContextAfter>\qt*\f + \fr 19:36 \ft Se</ContextAfter>
+    <Status></Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse>\v 36 Dette skjedde for at det som Gud hadde forutsagt i Skriften, skulle bli virkelighet: \qt ”Ikke et eneste ben i kroppen hans skal bli knust.”\qt*\f + \fr 19:36 \ft Se Andre Mosebok 12:46, Fjerde Mosebok 9:12 og Salmenes bok 34:21.\f*. </Verse>
+    <AssignedUser>Kent Spielmann</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>Delete the second one</Contents>
+  </Comment>
+  <Comment Thread="11ee02dd" User="James Courter" VerseRef="2CO 8:14" Language="nb" Date="2016-01-07T13:32:44.1702926+02:00">
+    <SelectedText>Det</SelectedText>
+    <StartPosition>140</StartPosition>
+    <ContextBefore> får alle det de trenger. </ContextBefore>
+    <ContextAfter> blir som det står i</ContextAfter>
+    <Status>deleted</Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse>\v 14 Akkurat nå er det dere som lever i overflod og kan hjelpe andre. En annen gang er det tvert om. På den måten får alle det de trenger. </Verse>
+    <AssignedUser>Kent Spielmann</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+  </Comment>
+  <Comment Thread="89d63c6" User="James Courter" VerseRef="MAT 1:2" Language="nb" Date="2016-01-07T13:50:59.3520414+02:00">
+    <SelectedText>Abraham</SelectedText>
+    <StartPosition>5</StartPosition>
+    <ContextBefore>\v 2 </ContextBefore>
+    <ContextAfter>, Isak og Jakob var far</ContextAfter>
+    <Status>todo</Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse>\v 2 Abraham, Isak og Jakob var far til Juda og brødrene hans. Videre fulgte: \li2 </Verse>
+    <AssignedUser>Kent Spielmann</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>The genealogies in this chapter and Luke 3 have a different format in the original as well, so I'd leave them as is.</Contents>
+  </Comment>
+  <Comment Thread="7e2df359" User="James Courter" VerseRef="MAT 3:16" Language="nb" Date="2016-01-08T10:33:30.2351739+02:00">
+    <SelectedText>1:33-34</SelectedText>
+    <StartPosition>192</StartPosition>
+    <ContextBefore> Johannes sin fortelling om Jesus </ContextBefore>
+    <ContextAfter> så døperen Johannes hvordan Guds</ContextAfter>
+    <Status></Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse>\v 16 Da Jesus hadde blitt døpt, steg han straks opp av vannet. Himmelen åpnet seg og han\f + \fr 3:16 \ft Det er uklart hvem ”ham” viser til, men i følge med \+xt Johannes sin fortelling om Jesus 1:33-34\+xt* så døperen Johannes hvordan Guds Ånd dalte ned over Jesus.\f* så Guds Ånd komme ned som en due og stanset over ham. </Verse>
+    <AssignedUser>Kent Spielmann</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>I assume you added "sin" here. This is correct</Contents>
+  </Comment>
+  <Comment Thread="b92261de" User="James Courter" VerseRef="MAT 6:13" Language="nb" Date="2016-01-08T10:34:24.0946819+02:00">
+    <SelectedText>Eller: det onde.</SelectedText>
+    <StartPosition>85</StartPosition>
+    <ContextBefore>\f + \fr 6:13 \ft </ContextBefore>
+    <ContextAfter>\f*\f + \fr 6:13 \ft En</ContextAfter>
+    <Status></Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse>\v 13 Led oss ikke inn i fristelse, \q2 men frels oss fra det onde.\f + \fr 6:13 \ft Eller: det onde.\f*\f + \fr 6:13 \ft En del senere håndskrifter legger til: \fqa …for du skal regjere med makt, og bli æret i evighet. Ja, dette er sant.\f* \q1 For riket er ditt, \q2 og makten og æren i evighet. \q1 Amen. \m </Verse>
+    <AssignedUser>Kent Spielmann</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>I would delete the footnote</Contents>
+  </Comment>
+  <Comment Thread="9d8ccc4c" User="James Courter" VerseRef="MAT 6:13" Language="nb" Date="2016-01-08T10:36:08.7937988+02:00">
+    <SelectedText>En del senere håndskrifter legger til: …for du skal regjere med makt, og bli æret i evighet. Ja, dette er sant.</SelectedText>
+    <StartPosition>122</StartPosition>
+    <ContextBefore>\f*\f + \fr 6:13 \ft </ContextBefore>
+    <ContextAfter>\f* \q1 For riket er ditt,</ContextAfter>
+    <Status></Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse>\v 13 Led oss ikke inn i fristelse, \q2 men frels oss fra det onde.\f + \fr 6:13 \ft Eller: det onde.\f*\f + \fr 6:13 \ft En del senere håndskrifter legger til: \fqa …for du skal regjere med makt, og bli æret i evighet. Ja, dette er sant.\f* \q1 For riket er ditt, \q2 og makten og æren i evighet. \q1 Amen. \m </Verse>
+    <AssignedUser>Kent Spielmann</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>For simplicity, I would just delete the footnote as being superfluous for the purposes of this translation anyway</Contents>
+  </Comment>
+  <Comment Thread="8162f794" User="James Courter" VerseRef="MAT 8:28" Language="nb" Date="2016-01-08T10:38:00.1529293+02:00">
+    <SelectedText>Markus sin fortelling om Jesus 5:1 og Lukas sin fortelling om Jesus 8:26</SelectedText>
+    <StartPosition>186</StartPosition>
+    <ContextBefore> sjøen, omkring byen Gadara. I </ContextBefore>
+    <ContextAfter> skriver de i stedet om</ContextAfter>
+    <Status></Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse>\v 28 Da Jesus hadde kommet over på den andre siden av sjøen, til området der gadarenerne bodde\f + \fr 8:28 \ft Dette området lå ved den sydøstre delen av sjøen, omkring byen Gadara. I \+xt Markus sin fortelling om Jesus 5:1 og Lukas sin fortelling om Jesus 8:26\+xt* skriver de i stedet om området rundt Gerasenerlandet, som var hele regionens hovedstad. Området var ikke bosatt av jøder.\f*, kom to menn imot ham som var besatt av onde ånder. De søkte ly blant gravene og var så voldsomme i sin atferd at ingen kunne ta seg fram den veien. </Verse>
+    <AssignedUser>Kent Spielmann</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>I would change all the footnote book names to the \toc3.</Contents>
+  </Comment>
+  <Comment Thread="32a57127" User="James Courter" VerseRef="MAT 9:21" Language="nb" Date="2016-01-08T10:38:21.8874996+02:00">
+    <SelectedText>Om jeg bare får røre ved klærne hans kommer jeg til å bli frisk.</SelectedText>
+    <StartPosition>19</StartPosition>
+    <ContextBefore>\v 21 Hun tenkte: &lt;</ContextBefore>
+    <ContextAfter>&gt; </ContextAfter>
+    <Status>deleted</Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse>\v 21 Hun tenkte: ”Om jeg bare får røre ved klærne hans kommer jeg til å bli frisk.” </Verse>
+    <AssignedUser>Kent Spielmann</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+  </Comment>
+  <Comment Thread="fa452a62" User="James Courter" VerseRef="MAT 10:4" Language="nb" Date="2016-01-08T10:38:45.0281758+02:00">
+    <SelectedText>den ivrige</SelectedText>
+    <StartPosition>13</StartPosition>
+    <ContextBefore>\v 4 Simon, &lt;</ContextBefore>
+    <ContextAfter>&gt;\f + \fr 10:4 \ft På</ContextAfter>
+    <Status>deleted</Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse>\v 4 Simon, ”den ivrige”\f + \fr 10:4 \ft På gresk: ”seloten” eller ”kananaios”, det er senere dannet av et arameisk ord. Simon tilhørte sannsynligvis ”selotene”, et politisk parti som ville gjøre opprør mot romerne.\f* og Judas Iskariot, han som seinere forrådt Jesus. \p </Verse>
+    <AssignedUser>Kent Spielmann</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+  </Comment>
+  <Comment Thread="d50be848" User="James Courter" VerseRef="MAT 27:8" Language="nb" Date="2016-01-08T10:39:02.2314774+02:00">
+    <SelectedText>Blodåkeren</SelectedText>
+    <StartPosition>52</StartPosition>
+    <ContextBefore> denne åkeren fortsatt blir kalt &lt;</ContextBefore>
+    <ContextAfter>&gt;. </ContextAfter>
+    <Status>deleted</Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse>\v 8 Det er derfor denne åkeren fortsatt blir kalt ”Blodåkeren”. </Verse>
+    <HideInTextWindow>false</HideInTextWindow>
+  </Comment>
+  <Comment Thread="83d1f635" User="James Courter" VerseRef="MRK 3:18" Language="" Date="2016-01-08T10:39:13.4969881+02:00">
+    <SelectedText>seloten</SelectedText>
+    <StartPosition>97</StartPosition>
+    <ContextBefore> til Alfeus, Taddeus og Simon &lt;</ContextBefore>
+    <ContextAfter>&gt;\f + \fr 3:18 \ft På</ContextAfter>
+    <Status>deleted</Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse>\v 18 Andreas, Filip, Bartolomeus, Matteus, Tomas og Jakob, sønnen til Alfeus, Taddeus og Simon ”seloten”\f + \fr 3:18 \ft På gresk: ”seloten” eller ”kananaios”, det er senere dannet av et arameisk ord. Simon tilhørte sannsynligvis ”selotene”, et politisk parti som ville gjøre opprør mot romerne.\f* </Verse>
+    <HideInTextWindow>false</HideInTextWindow>
+  </Comment>
+  <Comment Thread="e8eb9a5e" User="James Courter" VerseRef="MRK 9:29" Language="nb" Date="2016-01-08T10:39:44.5090253+02:00">
+    <SelectedText>til ”og faste”</SelectedText>
+    <StartPosition>116</StartPosition>
+    <ContextBefore> \ft En del håndskrifter legger </ContextBefore>
+    <ContextAfter>.\f*” \s1 Jesus forutsier for andre</ContextAfter>
+    <Status>deleted</Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse>\v 29 Jesus svarte: ”Denne slags Ånder kan bare bli drevet ut ved bønn.\f + \fr 9:29 \ft En del håndskrifter legger til: \fqa og faste.\f*” \s1 Jesus forutsier for andre gangen at han skal dø \p </Verse>
+    <AssignedUser>Kent Spielmann</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+  </Comment>
+  <Comment Thread="f41eeaf3" User="James Courter" VerseRef="LUK 3:23-38" Language="" Date="2016-01-08T10:40:15.0715152+02:00">
+    <SelectedText> Ma`at</SelectedText>
+    <StartPosition>283</StartPosition>
+    <ContextBefore> Josef, Mattatia, Amos, Nahum, Esli, Naggai,</ContextBefore>
+    <ContextAfter>, Mattatia, Sjimi, Josek, Joda, Johanan,</ContextAfter>
+    <Status></Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse />
+    <AssignedUser>Kent Spielmann</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>I agree</Contents>
+  </Comment>
+  <Comment Thread="ca3d2fa6" User="James Courter" VerseRef="LUK 6:15" Language="" Date="2016-01-08T10:40:25.5091646+02:00">
+    <SelectedText>den ivrige</SelectedText>
+    <StartPosition>76</StartPosition>
+    <ContextBefore> Jakob, Simon, som ble kalt &lt;</ContextBefore>
+    <ContextAfter>&gt;\f + \fr 6:15 \ft På</ContextAfter>
+    <Status>deleted</Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse>\v 15 Matteus, Tomas, sønnen til Alfeus som het Jakob, Simon, som ble kalt ”den ivrige”\f + \fr 6:15 \ft På gresk: ”seloten” eller ”kananaios”, dannet av et arameisk ord. Simon tilhørte sannsynligvis et politisk parti som ville gjøre opprør mot romerne.\f*, </Verse>
+    <AssignedUser>Kent Spielmann</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+  </Comment>
+  <Comment Thread="c9ba3890" User="James Courter" VerseRef="LUK 9:54" Language="" Date="2016-01-08T10:40:36.9621314+02:00">
+    <SelectedText> ”slik som Elia gjorde.”</SelectedText>
+    <StartPosition>237</StartPosition>
+    <ContextBefore> \ft En del håndskrifter legger til:</ContextBefore>
+    <ContextAfter> Se \+xt Andre Kongebok 1:10,12\+xt*.</ContextAfter>
+    <Status>deleted</Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse>\v 54 Da begge disiplene, som var Jakob og Johannes, fikk greie på det som hadde skjedd, ble de opprørte og sa: ”Herre, skal vi befale at ild må falle ned fra himmelen og brenne opp byen?”\f + \fr 9:54 \ft En del håndskrifter legger til: \fqa slik som Elia gjorde. \ft Se \+xt Andre Kongebok 1:10,12\+xt*.\f* </Verse>
+    <AssignedUser>Kent Spielmann</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+  </Comment>
+  <Comment Thread="87799318" User="James Courter" VerseRef="LUK 9:55" Language="nb" Date="2016-01-08T10:41:04.0245997+02:00">
+    <SelectedText> ”Dere vet ikke hva slags Ånd dere er inspirert av. 56Menneskesønnen har ikke kommet for å ødelegge menneskeliv, men for å frelse.”</SelectedText>
+    <StartPosition>94</StartPosition>
+    <ContextBefore> \ft En del håndskrifter legger til:</ContextBefore>
+    <ContextAfter>\f* </ContextAfter>
+    <Status>deleted</Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse>\v 55 Jesus vendte seg om og irettesatte dem.\f + \fr 9:55 \ft En del håndskrifter legger til: \fqa Dere vet ikke hva slags Ånd dere er inspirert av. \fv 56 \fqa Menneskesønnen har ikke kommet for å ødelegge menneskeliv, men for å frelse.\f* </Verse>
+    <AssignedUser>Kent Spielmann</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+  </Comment>
+  <Comment Thread="1c76f760" User="James Courter" VerseRef="JHN 19:22" Language="nb" Date="2016-01-08T10:51:19.8734776+02:00">
+    <SelectedText>Det jeg skrev, det skrev jeg!&gt;&gt; Ikke noe som helst skal bli endret.</SelectedText>
+    <StartPosition>28</StartPosition>
+    <ContextBefore>\v 22 Men Pilatus svarte: &lt;&lt;</ContextBefore>
+    <ContextAfter>&gt;&gt; \p </ContextAfter>
+    <Status></Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse>\v 22 Men Pilatus svarte: ”Det jeg skrev, det skrev jeg! Ikke noe som helst skal bli endret.” \p </Verse>
+    <AssignedUser>Kent Spielmann</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>The second sentence is an explanatory remark about what he meant in the previous statement, but I think it should be deleted as superfluous.</Contents>
+  </Comment>
+  <Comment Thread="6e4e98dc" User="James Courter" VerseRef="ACT 1:1" Language="nb" Date="2016-01-08T10:52:16.0901522+02:00">
+    <SelectedText>Lukas sin fortelling om Jesus</SelectedText>
+    <StartPosition>57</StartPosition>
+    <ContextBefore> bok\f + \fr 1:1 \ft </ContextBefore>
+    <ContextAfter>.\f* fortalte jeg for deg om</ContextAfter>
+    <Status></Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse>\v 1 Kjære Teofilus! \p I min første bok\f + \fr 1:1 \ft \+xt Lukas sin fortelling om Jesus\+xt*.\f* fortalte jeg for deg om alt som Jesus gjorde og lærte </Verse>
+    <AssignedUser>Kent Spielmann</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>I would put here Evangeliet etter Lukas</Contents>
+  </Comment>
+  <Comment Thread="e04b28c4" User="James Courter" VerseRef="ACT 8:10" Language="nb" Date="2016-01-08T10:52:32.3401360+02:00">
+    <SelectedText>&lt;Han er en gud, det er Den store kraften som viser seg i ham.&gt;</SelectedText>
+    <StartPosition>45</StartPosition>
+    <ContextBefore> og fattige, sa om ham: </ContextBefore>
+    <ContextAfter />
+    <Status>deleted</Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse>\v 10 Alle, både rike og fattige, sa om ham: ”Han er en gud, det er Den store kraften som viser seg i ham.” </Verse>
+    <AssignedUser>Kent Spielmann</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+  </Comment>
+  <Comment Thread="13a91b9e" User="James Courter" VerseRef="ACT 24:6" Language="nb" Date="2016-01-08T10:53:39.1684368+02:00">
+    <SelectedText>Vi ville dømme ham i følge vår lov,</SelectedText>
+    <StartPosition>309</StartPosition>
+    <ContextBefore> del håndskrifter legger til: \fqa ”</ContextBefore>
+    <ContextAfter> \fv 7\fqa men kommandanten Lysias</ContextAfter>
+    <Status>deleted</Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse>\v 6 Han har til og med forsøkt å skjende\f + \fr 24:6 \ft Paulus var anklaget for å ha tatt med noen som ikke var jøder inn i templet, noe som ville ha gjort templet uverdig i følge den jødiske tradisjonen.\f* templet. Det var derfor vi arresterte ham.\f + \fr 24:6 \ft En del håndskrifter legger til: \fqa Vi ville dømme ham i følge vår lov, \fv 7\fqa men kommandanten Lysias kom og førte ham bort fra oss med makt. \fv 8\fqa Han forlangte at anklagerne skulle innfinne seg hos deg.\f* </Verse>
+    <AssignedUser>Kent Spielmann</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+  </Comment>
+  <Comment Thread="77f77d07" User="James Courter" VerseRef="ROM 4:3" Language="nb" Date="2016-01-08T10:54:09.1129166+02:00">
+    <SelectedText>&lt;Abraham trodde på Gud, og derfor ble regnet som skyldfri innfor Gud&gt;</SelectedText>
+    <StartPosition>37</StartPosition>
+    <ContextBefore> det i Skriften? Jo, at </ContextBefore>
+    <ContextAfter>.\f + \fr 4:3 \ft Se</ContextAfter>
+    <Status>deleted</Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse>\v 3 Hva står det i Skriften? Jo, at ”Abraham trodde på Gud, og derfor ble regnet som skyldfri innfor Gud”.\f + \fr 4:3 \ft Se \+xt Første Mosebok 15:6\+xt*.\f* \p </Verse>
+    <AssignedUser>Kent Spielmann</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+  </Comment>
+  <Comment Thread="9f42041f" User="James Courter" VerseRef="1CO 15:9" Language="nb" Date="2016-01-08T10:56:32.3627341+02:00">
+    <SelectedText>Apostlenes gjerninger, historien om de første troende 9:1-5</SelectedText>
+    <StartPosition>203</StartPosition>
+    <ContextBefore> \fr 15:9 \ft Se \xt </ContextBefore>
+    <ContextAfter>\xt*.\f* \p </ContextAfter>
+    <Status></Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse>\v 9 Ja, jeg er den minst betydningsfulle av alle utsendingene, og burde egentlig ikke få lov til å kalle meg utsending i det hele tatt, etter som jeg har forfulgt Guds menighet.\f + \fr 15:9 \ft Se \+xt Apostlenes gjerninger, historien om de første troende 9:1-5\+xt*.\f* \p </Verse>
+    <AssignedUser>Kent Spielmann</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>I would call all the books by their official title: Apostlenes gjerninger</Contents>
+  </Comment>
+  <Comment Thread="4cd3633d" User="James Courter" VerseRef="GAL 6:2" Language="nb" Date="2016-01-08T10:56:52.3367931+02:00">
+    <SelectedText>Johannes fortelling om Jesus 13:34-35</SelectedText>
+    <StartPosition>139</StartPosition>
+    <ContextBefore> \fr 6:2 \ft Se \+xt </ContextBefore>
+    <ContextAfter>\+xt*, der Jesus sier: &lt;&lt;Så nå</ContextAfter>
+    <Status>deleted</Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse>\v 2 Støtt andre på de områdene der de er svake, for da lyder dere den kjærlighetens lov som Kristus har gitt oss.\f + \fr 6:2 \ft Se \+xt Johannes sin fortelling om Jesus 13:34-35\+xt*, der Jesus sier: ”Så nå befaler jeg dere noe nytt: elske hverandre…”\f* </Verse>
+    <HideInTextWindow>false</HideInTextWindow>
+  </Comment>
+  <Comment Thread="d42956c1" User="James Courter" VerseRef="COL 4:10" Language="" Date="2016-01-08T10:57:42.9772771+02:00">
+    <SelectedText>Markus sin fortelling om Jesus</SelectedText>
+    <StartPosition>139</StartPosition>
+    <ContextBefore> er den Markus som skrev </ContextBefore>
+    <ContextAfter>.\f*, som er fetter av Barnabas.</ContextAfter>
+    <Status></Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse>\v 10 Aristark, som sitter i fengslet sammen med meg, hilser til dere. Det gjør også Markus\f + \fr 4:10 \ft Dette er den Markus som skrev \+xt Markus sin fortelling om Jesus\+xt*.\f*, som er fetter av Barnabas. Som jeg allerede har meddelt dere tidligere: Ta vel imot Markus dersom han skulle komme til dere. </Verse>
+    <AssignedUser>Kent Spielmann</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>If the reader is going to know what book is being referred to, the official titles should be used</Contents>
+  </Comment>
+  <Comment Thread="38f2f96d" User="James Courter" VerseRef="1TI 5:10" Language="" Date="2016-01-08T10:57:49.7428731+02:00">
+    <SelectedText>Johannes fortelling om Jesus</SelectedText>
+    <StartPosition>221</StartPosition>
+    <ContextBefore> til de hellige. Se \+xt </ContextBefore>
+    <ContextAfter> 13:14\+xt*.\f* og ha støttet mennesker</ContextAfter>
+    <Status></Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse />
+    <AssignedUser>Kent Spielmann</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+  </Comment>
+  <Comment Thread="c11fb298" User="James Courter" VerseRef="JAS 5:16" Language="" Date="2016-01-08T10:58:00.6960176+02:00">
+    <SelectedText>Johannes fortelling om Jesus</SelectedText>
+    <StartPosition>295</StartPosition>
+    <ContextBefore> hva Jesus sier i \+xt </ContextBefore>
+    <ContextAfter> 9:2-3\+xt*.\f* Den som har fått</ContextAfter>
+    <Status>deleted</Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse />
+    <AssignedUser>Kent Spielmann</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+  </Comment>
+  <Comment Thread="e2d99c62" User="James Courter" VerseRef="1PE 1:18" Language="nb" Date="2016-01-08T10:59:10.9774078+02:00">
+    <SelectedText>’Dere</SelectedText>
+    <StartPosition>6</StartPosition>
+    <ContextBefore>\v 18 </ContextBefore>
+    <ContextAfter> vet selv hvor mye det</ContextAfter>
+    <Status></Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse>\v 18 Dere vet selv hvor mye det kostet Gud å kjøpe dere fri fra det meningsløse livet både dere og forfedrene deres levde. Løsepengene besto ikke av sølv eller gull, som bare er materielle verdier som snart vil forsvinne. </Verse>
+    <AssignedUser>Kent Spielmann</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>It is not in the Word file I have</Contents>
+  </Comment>
+  <Comment Thread="d5450209" User="James Courter" VerseRef="1JN 2:18" Language="nb" Date="2016-01-08T10:59:37.8836206+02:00">
+    <SelectedText>Motstanderen til Kristus</SelectedText>
+    <StartPosition>68</StartPosition>
+    <ContextBefore> Dere har hørt at &lt;</ContextBefore>
+    <ContextAfter>&gt;\f + \fr 2:18 \ft På</ContextAfter>
+    <Status>deleted</Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse>\v 18 Mine barn, den siste timen har snart slått. Dere har hørt at ”Motstanderen til Kristus”\f + \fr 2:18 \ft På gresk: Antikrist. Se \+xt Andre Thessalonikerbrevet 2:3 og Johannes åpenbaring Johannes syn 13:1-10\+xt*.\f* skal komme, og allerede har mange motstandere vist seg. Av dette forstår vi at tidenes slutt er nær. </Verse>
+    <AssignedUser>Kent Spielmann</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+  </Comment>
+  <Comment Thread="9cb527a3" User="James Courter" VerseRef="REV 3:17" Language="nb" Date="2016-01-08T11:00:14.6930743+02:00">
+    <SelectedText>&lt;Vi er rike! Vi har det materielt godt og har ikke behov av noe mer!&gt;</SelectedText>
+    <StartPosition>17</StartPosition>
+    <ContextBefore>\v 17 Dere sier: </ContextBefore>
+    <ContextAfter> Dere innser ikke at dere,</ContextAfter>
+    <Status>deleted</Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse>\v 17 Dere sier: ”Vi er rike! Vi har det materielt godt og har ikke behov av noe mer!” Dere innser ikke at dere, åndelig sett, er elendige, ynkelige, fattige, blinde og nakne. \p </Verse>
+    <AssignedUser>Kent Spielmann</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+  </Comment>
+  <Comment Thread="38f2f96d" User="James Courter" VerseRef="1TI 5:10" Language="nb" Date="2016-01-08T11:00:36.2085261+02:00">
+    <SelectedText>Johannes fortelling om Jesus</SelectedText>
+    <StartPosition>221</StartPosition>
+    <ContextBefore> til de hellige. Se \+xt </ContextBefore>
+    <ContextAfter> 13:14\+xt*.\f* og ha støttet mennesker</ContextAfter>
+    <Status>deleted</Status>
+    <Type></Type>
+    <ConflictType />
+    <Verse />
+    <HideInTextWindow>false</HideInTextWindow>
+  </Comment>
+</CommentList>

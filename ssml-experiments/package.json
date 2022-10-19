@@ -1,0 +1,24 @@
+{
+  "name": "ssml-experiments",
+  "version": "0.0.1",
+  "description": "Converting USFM to SSML using Proskomma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvahowe/ssml-experiments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvahowe/ssml-experiments/issues"
+  },
+  "homepage": "https://github.com/mvahowe/ssml-experiments#readme",
+  "dependencies": {
+    "fs-extra": "^9.1.0",
+    "path": "^0.12.7",
+    "proskomma": "^0.3.7"
+  }
+}
