@@ -1,0 +1,6 @@
+{
+	"appId": "bible.proskomma.diegesis",
+	"appName": "diegesis-reboot",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

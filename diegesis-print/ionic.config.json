@@ -1,0 +1,7 @@
+{
+  "name": "diegesis-reboot",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
