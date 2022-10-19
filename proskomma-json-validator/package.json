@@ -1,0 +1,39 @@
+{
+  "name": "proskomma-json-validator",
+  "version": "0.0.5",
+  "description": "A JSON Schema Validator for Proskomma data",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "bash -c \"babel-tape-runner test/code/*.cjs | node_modules/tap-summary/bin/cmd.js\"",
+    "rawTest": "babel-tape-runner test/code/*.cjs",
+    "oneTest": "babel-tape-runner test/code/$TESTSCRIPT.cjs",
+    "coverage": "node_modules/nyc/bin/nyc.js babel-tape-runner test/code/*.cjs",
+    "build": "babel src -d dist; mkdir dist/schema; cp -fr src/schema/*.json dist/schema",
+    "prepublishOnly": "rm -fr dist && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvahowe/proskomma-json-validator.git"
+  },
+  "author": "Mark Howe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mvahowe/proskomma-json-validator/issues"
+  },
+  "homepage": "https://github.com/mvahowe/proskomma-json-validator#readme",
+  "dependencies": {
+    "@babel/core": "^7.17.10",
+    "ajv": "^8.11.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.17.10",
+    "@babel/preset-env": "^7.17.10",
+    "babel-eslint": "^10.1.0",
+    "babel-tape-runner": "^3.0.0",
+    "eslint": "^8.15.0",
+    "fs-extra": "^10.1.0",
+    "path": "^0.12.7",
+    "tap-summary": "^4.0.0",
+    "tape": "^5.5.3"
+  }
+}

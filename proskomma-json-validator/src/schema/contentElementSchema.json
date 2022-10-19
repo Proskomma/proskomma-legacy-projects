@@ -1,0 +1,35 @@
+{
+  "$id": "https://github.com/Proskomma/proskomma-json-validator/tree/main/src/schema/contentElementSchema.json",
+
+  "type": "object",
+  "properties": {
+    "type": {
+      "type": "string"
+    },
+    "number": {
+      "type": "string"
+    },
+    "subType": {
+      "type": "string",
+      "enum": [
+        "verses",
+        "xref",
+        "footnote",
+        "noteCaller"
+      ]
+    },
+    "target": {
+      "type": "string"
+    },
+    "nBlocks": {
+      "type": "integer"
+    },
+    "previewText": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "type"
+  ],
+  "additionalProperties": false
+}

@@ -1,0 +1,73 @@
+{
+  "$id": "https://github.com/Proskomma/proskomma-json-validator/tree/main/src/schema/blockOrGraftSchema.json",
+
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "type": {
+        "type": "string",
+        "enum": [
+          "block",
+          "graft"
+        ]
+      },
+      "subType": {
+        "type": "string"
+      },
+      "target": {
+        "type": "string"
+      },
+      "nBlocks": {
+        "type": "integer"
+      },
+      "previewText": {
+        "type": "string"
+      },
+      "firstBlockScope": {
+        "type": "string"
+      },
+      "content": {
+        "type": "array",
+        "items": {
+          "oneOf": [
+            {
+              "type": "string"
+            },
+            {
+              "$ref": "./contentElementSchema.json"
+            }
+          ]
+        }
+      }
+    },
+    "required": [
+      "type",
+      "subType"
+    ],
+    "additionalProperties": false,
+    "if": {
+      "properties": {
+        "type": {
+          "enum": [
+            "block"
+          ]
+        }
+      }
+    },
+    "then": {
+      "required": [
+        "content"
+      ]
+    },
+    "else": {
+      "required": [
+        "target",
+        "nBlocks",
+        "previewText",
+        "firstBlockScope"
+      ]
+    }
+  }
+}
+

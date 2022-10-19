@@ -1,0 +1,14 @@
+YOUR_ACCESS_TOKEN = "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Imp1azVFbjhHYkxHY0VmUTJ2RkkzQiJ9.eyJpc3MiOiJodHRwczovL2Rldi1tLTdmcnRxei5ldS5hdXRoMC5jb20vIiwic3ViIjoia0haREs5Z0pJYTFleWFIZWY1RzRLU2FlN2R5cmMwVjVAY2xpZW50cyIsImF1ZCI6Imh0dHBzOi8vZGV2LW0tN2ZydHF6LmV1LmF1dGgwLmNvbS9hcGkvdjIvIiwiaWF0IjoxNjA4MjEzMTc4LCJleHAiOjE2MDgyOTk1NzgsImF6cCI6ImtIWkRLOWdKSWExZXlhSGVmNUc0S1NhZTdkeXJjMFY1IiwiZ3R5IjoiY2xpZW50LWNyZWRlbnRpYWxzIn0.uKaqtpcYWoPslzfoysoA0SnnLEZt_eY88zc9Kv2XCkE39n9w93ArIhha51LAnATdngyMcNmWY6yzuugpgf5zrhxvgZxPHM9p0WC7I78HFBuBKQ_l8gBlsL3veFcYQwATp4D-sKjN8rNtpCx17TNvPI6drIwYFHkeYTFkIT3ekGP6tx_nD5yddOAWto2jlyobrkFzEouUybVOFs4D49tcXndjoZaQ7r3PTiq7o5kW6OFcHy_M4UAr0ROM3T-g2Maqpx1_tPmeTE8-ogmItoaMBpCnlu137lZrH19XEphRINMn7dAa4KUjAi7UzY0nw1m2X1V9aV3Nvv-ZM6079QE6Mg"
+
+import http.client
+
+conn = http.client.HTTPConnection("localhost:5000")
+
+headers = { 'authorization': "Bearer " + YOUR_ACCESS_TOKEN}
+
+conn.request("GET", "/api/private", headers=headers)
+
+res = conn.getresponse()
+data = res.read()
+
+print(data.decode("utf-8"))

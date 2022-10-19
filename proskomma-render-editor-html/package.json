@@ -1,0 +1,30 @@
+{
+  "name": "proskomma-render-app-html",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "Scripture HTML chapter generator based on proskomma-render",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faithcomesbyhearing/proskomma-render-app-html.git"
+  },
+  "author": "Mark Howe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faithcomesbyhearing/proskomma-render-app-html/issues"
+  },
+  "homepage": "https://github.com/faithcomesbyhearing/proskomma-render-app-html#readme",
+  "dependencies": {
+    "proskomma-freeze": "^0.6.2",
+    "proskomma-frozen-archives": "0.0.3",
+    "proskomma-render": "^0.6.0"
+  },
+  "devDependencies": {
+    "fs-extra": "^10.0.0",
+    "path": "^0.12.7",
+    "uw-proskomma": "^0.6.0"
+  }
+}

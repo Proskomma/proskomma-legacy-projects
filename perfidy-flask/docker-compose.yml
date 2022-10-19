@@ -1,0 +1,10 @@
+---
+version: "3.9"
+
+services:
+  perfidy-flask:
+    build: .
+    volumes:
+      - .:/usr/src/app
+    ports:
+      - ${PERFIDY_FLASK_PORT-5000}:80

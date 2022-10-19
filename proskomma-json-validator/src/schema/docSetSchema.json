@@ -1,0 +1,39 @@
+{
+  "$id": "https://github.com/Proskomma/proskomma-json-validator/tree/main/src/schema/docSetSchema.json",
+
+  "type": "object",
+  "properties": {
+    "selectors": {
+      "type": "object",
+      "minProperties": 1,
+      "maxProperties": 6,
+      "propertyNames": {
+        "pattern": "^\\S+$"
+      },
+      "additionalProperties": {
+        "type": "string"
+      }
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "documents": {
+      "type": "object",
+      "propertyNames": {
+        "pattern": "^[A-Z0-9]{3}$"
+      },
+      "additionalProperties": {
+        "$ref": "./documentSchema.json"
+      }
+    }
+  },
+  "required": [
+    "selectors",
+    "tags",
+    "documents"
+  ]
+}
+

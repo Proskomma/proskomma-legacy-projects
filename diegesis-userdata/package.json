@@ -1,0 +1,28 @@
+{
+  "name": "diegesis-userdata",
+  "version": "0.0.1",
+  "description": "A basic server for storing and saving Diegesis user data",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Proskomma/diegesis-userdata.git"
+  },
+  "author": "Mark Howe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Proskomma/diegesis-userdata/issues"
+  },
+  "homepage": "https://github.com/Proskomma/diegesis-userdata#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "fs-extra": "^10.0.1",
+    "multer": "^1.4.4",
+    "path": "^0.12.7"
+  }
+}

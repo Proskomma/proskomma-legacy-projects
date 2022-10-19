@@ -1,0 +1,19 @@
+{
+  "$id": "https://github.com/Proskomma/proskomma-json-validator/tree/main/src/schema/docSetsSchema.json",
+  "type": "object",
+  "properties": {
+    "docSets": {
+      "type": "object",
+      "propertyNames": {
+        "pattern": "^\\S+$"
+      },
+      "additionalProperties": {
+        "$ref": "./docSetSchema.json"
+      }
+    }
+  },
+  "required": [
+    "docSets"
+  ],
+  "additionalProperties": false
+}

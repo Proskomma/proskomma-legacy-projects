@@ -1,0 +1,43 @@
+{
+  "$id": "https://github.com/Proskomma/proskomma-json-validator/tree/main/src/schema/documentSchema.json",
+
+  "type": "object",
+  "properties": {
+    "headers": {
+      "type": "object",
+      "propertyNames": {
+        "pattern": "^\\S+$"
+      },
+      "additionalProperties": {
+        "type": "string"
+      }
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "sequences": {
+      "type": "object",
+      "propertyNames": {
+        "pattern": "^\\S+$"
+      },
+      "additionalProperties": {
+        "$ref": "./sequenceSchema.json"
+      }
+    },
+    "mainSequence": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "headers",
+    "tags",
+    "sequences",
+    "mainSequence"
+  ]
+}
+
+
+
