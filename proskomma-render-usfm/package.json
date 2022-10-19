@@ -1,0 +1,26 @@
+{
+  "name": "proskomma-render-usfm",
+  "version": "0.1.0",
+  "description": "USFM exporter based on proskomma-render",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Proskomma/proskomma-render-usfm.git"
+  },
+  "author": "Mark Howe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Proskomma/proskomma-render-usfm/issues"
+  },
+  "homepage": "https://github.com/Proskomma/proskomma-render-usfm#readme",
+  "devDependencies": {
+    "fs-extra": "^10.0.0",
+    "proskomma": "^0.4.58"
+  },
+  "dependencies": {
+    "proskomma-render": "^0.5.4"
+  }
+}
